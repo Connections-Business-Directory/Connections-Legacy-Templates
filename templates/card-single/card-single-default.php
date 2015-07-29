@@ -1,23 +1,4 @@
 <?php
-/**
- * @package    Connections
- * @subpackage Template : Single Card
- * @author     Steven A. Zahm
- * @since      0.7.9
- * @license    GPL-2.0+
- * @link       http://connections-pro.com
- * @copyright  2013 Steven A. Zahm
- *
- * @wordpress-plugin
- * Plugin Name:       Connections Single Card - Template
- * Plugin URI:        http://connections-pro.com
- * Description:       This is a variation of the default template does not show the return to top anchor.
- * Version:           2.0.1
- * Author:            Steven A. Zahm
- * Author URI:        http://connections-pro.com
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- */
 
 // Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) exit;
